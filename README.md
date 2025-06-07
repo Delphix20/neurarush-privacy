@@ -1,8 +1,15 @@
- <strong>Privacy Policy</strong>
-This privacy policy applies to the NeuraRush app (hereby referred to as "Application") for mobile devices that was created by (hereby referred to as "Service Provider") as a Freemium service. This service is intended for use "AS IS".
+   <strong>Privacy Policy</strong>
+    
+    <p>This privacy policy applies to the NeuraRush app (hereby referred to as "Application") for mobile devices that was created by Paul Crapatureanu (hereby referred to as "Service Provider") as a Freemium service. This service is intended for use "AS IS".</p>
 
-Information Collection and Use
-The Application collects information when you download and use it. This information may include information such as
+    <strong>Information Collection and Use</strong>
+    
+    <p>The Application collects information when you download and use it. This information may include information such as: Your device's Internet Protocol address (e.g. IP address)
+The pages of the Application that you visit, the time and date of your visit, the time spent on those pages
+The time spent on the Application
+The operating system you use on your mobile device</p>
+
+
 Your device's Internet Protocol address (e.g. IP address)
 The pages of the Application that you visit, the time and date of your visit, the time spent on those pages
 The time spent on the Application
