@@ -1,21 +1,4 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <title>NeuraRush - Privacy Policy</title>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <style>
-        body { 
-            font-family: Arial, sans-serif; 
-            max-width: 800px; 
-            margin: 40px auto; 
-            padding: 20px; 
-            line-height: 1.6; 
-        }
-        h1 { color: #333; }
-        h2 { color: #666; margin-top: 30px; }
-    </style>
-</head>
+
 <body>
     <h1>Privacy Policy for NeuraRush</h1>
     
